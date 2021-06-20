@@ -7,7 +7,7 @@
 **OS textart** are OSs and Distros logo mostly from [Ufetch](https://gitlab.com/jschx/ufetch) then get convert and modify to [`textart`](https://github.com/NNBnh/textart-collections/wiki) format.
 
 ## ⌨️ Usage
-<a href="https://asciinema.org/a/379073" target="_blank"><img align="right" width="40%" src="https://asciinema.org/a/379073.svg"></a>
+<a href="https://asciinema.org/a/379073" target="_blank"><img align="right" width="50%" src="https://asciinema.org/a/379073.svg"></a>
 
 First [download](https://github.com/info-mono/os-textart/archive/main.zip) or clone this repo:
 ```sh

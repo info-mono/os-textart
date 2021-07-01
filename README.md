@@ -1,7 +1,6 @@
 <h1 align="center">OS textart</h1>
 <p align="center">OS/Distro's logo textart</p>
 <p align="center"><a href="https://github.com/info-mono/os-textart/blob/main/LICENSE"><img src="https://img.shields.io/github/license/info-mono/os-textart?labelColor=383838&color=585858&style=for-the-badge" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#active-development"><img src="https://img.shields.io/github/last-commit/NNBnh/dots?labelColor=383838&color=585858&style=for-the-badge" alt="Active development"></a></p>
-<p align="center"><a href="https://github.com/info-mono/os-textart/watchers"><img src="https://img.shields.io/github/watchers/info-mono/os-textart?labelColor=383838&color=585858&style=flat-square"></a> <a href="https://github.com/info-mono/os-textart/stargazers"><img src="https://img.shields.io/github/stars/info-mono/os-textart?labelColor=383838&color=585858&style=flat-square"></a> <a href="https://github.com/info-mono/os-textart/network/members"><img src="https://img.shields.io/github/forks/info-mono/os-textart?labelColor=383838&color=585858&style=flat-square"></a> <a href="https://github.com/info-mono/os-textart/issues"><img src="https://img.shields.io/github/issues/info-mono/os-textart?labelColor=383838&color=585858&style=flat-square"></a></p>
 
 ## 💡 About
 **OS textart** are OSs and Distros logo mostly from [Ufetch](https://gitlab.com/jschx/ufetch) then get convert and modify to [`textart`](https://github.com/NNBnh/textart-collections/wiki) format.

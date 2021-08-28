@@ -1,6 +1,8 @@
+> # ⚠️ Warning: Move focus to [OS ANSI art](https://github.com/info-mono/os-ansi)
+
 <h1 align="center">OS textart</h1>
 <p align="center">OS/Distro's logo textart</p>
-<p align="center"><a href="https://github.com/info-mono/os-textart/blob/main/LICENSE"><img src="https://img.shields.io/github/license/info-mono/os-textart?labelColor=383838&color=585858&style=for-the-badge" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#active-development"><img src="https://img.shields.io/github/last-commit/NNBnh/dots?labelColor=383838&color=585858&style=for-the-badge" alt="Active development"></a></p>
+<p align="center"><a href="https://github.com/info-mono/os-textart/blob/main/LICENSE"><img src="https://img.shields.io/github/license/info-mono/os-textart?labelColor=383838&color=585858&style=for-the-badge" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#active-development"><img src="https://img.shields.io/badge/development-abandoned-%23585858.svg?labelColor=383838&style=for-the-badge&logoColor=FFFFFF" alt="Development abandoned"></a></p>
 
 ## 💡 About
 **OS textart** are OSs and Distros logo mostly from [Ufetch](https://gitlab.com/jschx/ufetch) then get convert and modify to [`textart`](https://github.com/NNBnh/textart-collections/wiki) format.
